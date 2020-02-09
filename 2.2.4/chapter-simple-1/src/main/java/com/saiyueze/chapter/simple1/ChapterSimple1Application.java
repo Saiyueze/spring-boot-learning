@@ -1,4 +1,4 @@
-package com.saiyueze.chaptersimple1;
+package com.saiyueze.chapter.simple1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

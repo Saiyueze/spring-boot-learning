@@ -50,3 +50,4 @@ mvnw.cmd
 ### others ###
 agent/
 apps/
+/.metadata/

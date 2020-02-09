@@ -1,8 +1,5 @@
-/logs
-
 HELP.md
 target/
-classes/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
@@ -25,28 +22,10 @@ classes/
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
-/build/
 /dist/
 /nbdist/
 /.nb-gradle/
+build/
 
 ### VS Code ###
 .vscode/
-
-# maven
-.mvn
-mvnw
-mvnw.cmd
-
-# Java
-.class
-
-*.log
-*.tar.gz
-*.rar
-*.zip
-*.bak
-
-### others ###
-agent/
-apps/
